@@ -42,7 +42,7 @@ That's why I like to make things that make a difference.
 ### 👨‍💻 Programming languages
 
 <p>
-    <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+    <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-7952B3.svg?logo=java&logoColor=white"></a>
     <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
@@ -54,8 +54,7 @@ That's why I like to make things that make a difference.
 <p>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="SpringBoot" src="https://img.shields.io/badge/SpringBoot-7952B3.svg?logo=springboot&logoColor=white"></a>
-    <a href="#"><img alt="Microservices" src="https://img.shields.io/badge/Microservice-blue?style=plastic&logo=microservices"></a>
-    
+    <a href="#"><img alt="Microservices" src="https://img.shields.io/badge/Microservice-blue?logo=microservice&logoColor=white"></a>
 </p>
 
 ### 🗄️ Databases and Cloud Hosting
