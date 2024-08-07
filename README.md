@@ -1,10 +1,10 @@
 # Welcome to [Onkar Malve's](https://onkarmalve.000webhostapp.com) profile! <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-<a href="https://www.linkedin.com/in/akash-kasar-a26177234" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/onkar-malve-5a484b232" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash" height="30" width="40" /></a>
 &nbsp;
 <a href="#" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akash" height="30" width="40" /></a>
 &nbsp;
-<a href="https://www.instagram.com/_akash_kasar__17" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akash" height="30" width="40" /></a>
+<a href="https://www.instagram.com/onkar_malve_01/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akash" height="30" width="40" /></a>
 &nbsp;
 <a href="#" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akash" height="30" width="40" /></a>
 &nbsp;
@@ -26,7 +26,7 @@ That's why I like to make things that make a difference.
 
 - 👨‍🎓 I'm a **Java Devloper & Full-Stack Software Engineer**
 - 💬 Ask me about anything, I am happy to help
-- 📬 How to reach me: [akashkasar13@gmail.com](akashkasar13@gmail.com)
+- 📬 How to reach me: [onkarmalve01@gmail.com](onkarmalve01@gmail.com)
 - 💪 This is where I write, code and solve problems:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -43,18 +43,17 @@ That's why I like to make things that make a difference.
 
 <p>
     <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+    <a href="#"><img alt="Microservices" src="https://img.shields.io/badge/Microservice-blue?style=plastic&logo=microservices"></a>
     <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
 </p>
 
 ### 🧰 Frameworks and libraries
 
 <p>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
 </p>
 
 ### 🗄️ Databases and Cloud Hosting
