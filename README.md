@@ -76,15 +76,15 @@ That's why I like to make things that make a difference.
 
 ---
 
-<!-- ## 📊 Stats
+<!-- ## 📊 Stats -->
 
-[![wakatime](https://wakatime.com/badge/user/0f3d8544-3446-40bb-987d-b1a8ed7d2cff.svg)](https://wakatime.com/@0f3d8544-3446-40bb-987d-b1a8ed7d2cff) <b>&nbsp; coded, since JAN 22 2021</b>
+<!--[![wakatime](https://wakatime.com/badge/user/0f3d8544-3446-40bb-987d-b1a8ed7d2cff.svg)](https://wakatime.com/@0f3d8544-3446-40bb-987d-b1a8ed7d2cff) <b>&nbsp; coded, since JAN 22 2021</b> -->
 
-📊 <b>This Week I Spent My Time On</b>
+<!--📊 <b>This Week I Spent My Time On</b> -->
 
 <!--START_SECTION:waka-->
 ```text
-Java         5 hrs 3 mins    ███████████▒░░░░░░░░░░░░░   4.70 % 
+<!-- Java         5 hrs 3 mins    ███████████▒░░░░░░░░░░░░░   4.70 %  -->
 Sql          4 hrs 35 mins   ██████████░░░░░░░░░░░░░░░   40.59 % 
 JavaScript   1 hr 34 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.85 % 
 CSS          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
